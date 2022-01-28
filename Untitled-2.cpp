@@ -4,7 +4,7 @@ float a, b, c;
 char d;
 int p;
 int main()
-{//Подключение русского языка!
+{//Подключение русского языка!!!
     setlocale(LC_ALL, "Russian");                              
     while (p != 2)
     {
