@@ -27,6 +27,6 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         # Определение имени закачиваемого файла и откуда его взять 
-        name: beginners
-        path: ${{github.workspace}}/build/${{env.BUILD_TYPE}}/beginners.exe
+        name: begin
+        path: ${{github.workspace}}/build/${{env.BUILD_TYPE}}/begin.exe
   
